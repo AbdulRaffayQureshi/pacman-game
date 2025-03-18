@@ -13,7 +13,7 @@
 
 A modern Java implementation of the classic arcade game Pac-Man. This project offers a nostalgic gaming experience with modern code architecture and features.
 
-![Gameplay Screenshot](https://via.placeholder.com/800x400?text=Pac-Man+Gameplay)
+![Gameplay Screenshot](pacman%20image%20game.png)
 
 ## ✨ Features
 
