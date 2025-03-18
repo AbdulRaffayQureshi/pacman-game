@@ -5,7 +5,7 @@
 ![Pac-Man Logo](https://img.shields.io/badge/PAC--MAN-GAME-yellow?style=for-the-badge&logo=java&logoColor=white)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Java Version](https://img.shields.io/badge/Java-17%2B-orange)](https://www.oracle.com/java/)
+[![Java Version](https://img.shields.io/badge/Java-23%2B-orange)](https://www.oracle.com/java/)
 
 </div>
 
